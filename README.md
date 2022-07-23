@@ -7,3 +7,18 @@ The chatbot is built to provide customer support 24x7, especially in the health 
 
 
 ![image](https://user-images.githubusercontent.com/53647653/180603130-4e9f4113-16cf-4a60-9c59-aa6af91cd2d1.png)
+
+
+#AWS LEX
+
+
+
+
+#AWS Lambda
+
+some sample code snippets of Lambda function.
+
+![image](https://user-images.githubusercontent.com/53647653/180604112-5382a6a8-9bb2-4d2f-9e9c-86264afe0e72.png)
+
+
+
