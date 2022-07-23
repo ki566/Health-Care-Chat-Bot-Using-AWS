@@ -96,12 +96,12 @@ https://aws.amazon.com/blogs/machine-learning/deploy-a-web-ui-for-your-chatbot/
 
 
 ## Future Scope:
-This chat bot allows you to effortlessly access multiple hospitals in various places and arrange an appointment.
+* This chat bot allows you to effortlessly access multiple hospitals in various places and arrange an appointment.
 
-This chat bot allows you to verify the availability of doctors at various hospitals.
+* This chat bot allows you to verify the availability of doctors at various hospitals.
 
-Chat bot keep patients engaged 24/7. Can make it user-friendly using AI/ML Algorithms.
+* Chat bot keep patients engaged 24/7. Can make it user-friendly using AI/ML Algorithms.
 
-This Chat bot helps to place an order for medicines as well as andelivery assistance.
+* This Chat bot helps to place an order for medicines as well as andelivery assistance.
 
 
