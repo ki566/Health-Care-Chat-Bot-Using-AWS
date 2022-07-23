@@ -63,6 +63,7 @@ some sample code snippets of Lambda function.
 
 
 **Dynamo DB**
+
 It is the database that is used to store the information about the doctors and which area are they based in.
 There are three main regions are Vizag, Khammam, Nalgonda. There are 3 medical departments which are:
 
