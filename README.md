@@ -78,6 +78,8 @@ Two GSI indexes are created for fetching data from DynamoDB:
 
 Deployed Using CloudFormation Deployment
 Refer Below Link  for more information 
+
+
 https://aws.amazon.com/blogs/machine-learning/deploy-a-web-ui-for-your-chatbot/
 
 ## Sample Outputs
