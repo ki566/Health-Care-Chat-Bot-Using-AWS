@@ -1,4 +1,4 @@
-## Problem Statement
+## Abstract
 
 The main goal of the creation of Chatbots was to resemble a human being in the way they perform said interaction, trying to make the user think writing to another human being. 
 This chatbot uses Amazon lex to build a text-based conversational interface for web applications. 
@@ -62,7 +62,7 @@ some sample code snippets of Lambda function.
 ![image](https://user-images.githubusercontent.com/53647653/180604112-5382a6a8-9bb2-4d2f-9e9c-86264afe0e72.png)
 
 
-**Dynamo DB**
+# Dynamo DB
 
 It is the database that is used to store the information about the doctors and which area are they based in.
 There are three main regions are Vizag, Khammam, Nalgonda. There are 3 medical departments which are:
